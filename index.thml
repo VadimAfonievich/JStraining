@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\02_ITtrening\\lessonsIvanPetrichenco"
+		},
+		{
+			"path": "..\\..\\02_ITtrening\\training"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "training"
+	}
+}
